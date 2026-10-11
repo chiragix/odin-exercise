@@ -1,0 +1,19 @@
+.john {
+  background-color: rgb(252, 139, 161);
+  font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#cloie-a {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+.big {
+  font-size: 24px;
+}
+
+#cloie-b {
+  background-color: rgb(150, 249, 123);
+  font-size: 24px;
+  font-weight: bold;
+}
